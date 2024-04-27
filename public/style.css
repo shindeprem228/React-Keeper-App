@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: #008c41; */
+    
+    background-color: #008c41;
+    background-color: #008c41;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! *//* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+header
+{
+    height: 80px;
+    background-color: rgb(255, 223, 45);
+    font-family: cursive;   
+}
+
+footer
+{
+    margin-top: 26%;
+    height: 50px;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.card{
+    margin: 20px;
+    box-shadow: 1px 2px 5px 1px rgba(0, 0, 0, 0.5);
+
+}
+
+.main{
+    margin-top: 2%;
+}
+
+form
+{
+    /* margin-left: 35%; */
+    /* height: ; */
+    width: 75%;
+    /* background-color: red; */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 0px;
+    box-shadow: 1px 2px 5px 1px rgba(0, 0, 0, 0.5);
+    border: 1px solid lightgrey;
+}
+
+.input, .textarea
+{
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 1.2em;
+  font-family: inherit;
+  resize: none;
+}
+
+.note button
+{
+  position: relative;
+  float: right;
+  margin-right: 10px;
+  color: #ffffff;
+  border: none;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 50%;
+  background-color: #f5ba13;
+}
+
+
+
+
+
+/* .btn
+{
+    display: block;
+    margin-left: 25%;
+    margin-top: 10px;
+} */
+
+  
